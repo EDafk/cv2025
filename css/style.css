@@ -95,3 +95,9 @@ a {
   color: #46cef0;
   text-decoration: none;
 } 
+.gallery img {
+  width: 400px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+}
